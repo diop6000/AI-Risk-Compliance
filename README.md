@@ -162,3 +162,7 @@ Focus: AI systems designed for regulated environments
 
 This project is a research and engineering prototype.
 It does not provide legal advice and should not be used as a substitute for official regulatory interpretation.
+## 📬 Contact
+
+**Laurent Diop** – Risk & Compliance Analyst | AI for Regulated Environments  
+🔗 [LinkedIn](URL) | 💻 [GitHub](https://github.com/diop6000)
