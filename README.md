@@ -2,9 +2,6 @@
 
 https://www.loom.com/share/d0ee3b73fb184eac97e4f31ca80744b1
 
-👉 https://www.loom.com/share/d0ee3b73fb184eac97e4f31ca80744b1
-
-
 🛡️ AI Risk Compliance – Local RAG for Financial Regulations
 
 AI Risk Compliance is a local Retrieval-Augmented Generation (RAG) application designed to help Risk & Compliance analysts query large financial regulatory documents (Basel III, CRR, EBA Guidelines, ECB directives) with full traceability and zero external LLM dependency.
